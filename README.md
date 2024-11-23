@@ -1,6 +1,6 @@
 # NAME : VISHAL S
 # REG. NO.:212223110063
-# EX NO.4: Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# EX NO.4: Monitoring Light intensity value in Thing Speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
